@@ -21,6 +21,7 @@ SafeRoute Navigator is a Flutter-based safety-focused navigation app. It allows 
 - **Flutter**
 - **Google Maps SDK**
 - **Google Directions API**
+- **Aixplain API**
 - **Geocoding API**
 - **Geolocator Plugin**
 - **Firebase Firestore (Optional for review storage)**
